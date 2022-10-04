@@ -12,7 +12,7 @@ First install Git in your system (You can install in Visual Studio directly if w
 
 Second, you can connect your git in pc to your GitHub profile by email address.
 
-Now you can clone this repository using SSH (would recommend this because, if you have your SSH public-key given in your GitHub you dont need to type your GitHub password to push (I think the other way is stopped but anyway use SSH). If you don't know how to create public and private key for your PC, refer internet sources on how to create those. And to add SSH key to GitHub, refer to your settings --> Advanced.
+Now you can clone this repository using SSH (would recommend this because, if you have your SSH public-key given in your GitHub you dont need to type your GitHub password to push (I think the other way is stopped but anyway use SSH). If you don't know how to create public and private key for your PC, refer internet sources on how to create those. And to add public-key to GitHub, refer to your settings --> Advanced.
 
 Once all this done, now you can clone this repo using the following command "git clone SSH-of-repository" (SSH of repository can be found from GitHub --> repository --> code button --> SSH
 
